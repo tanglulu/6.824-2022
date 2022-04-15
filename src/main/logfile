@@ -1,0 +1,86 @@
+2022/04/15 20:14:42 start configure Coordinator...
+2022/04/15 20:14:42 Coordinator started!
+2022/04/15 20:14:42 start check timeout...
+2022/04/15 20:14:42 check timeout done!
+2022/04/15 20:14:42 rpc.Register: method "Done" has 1 input parameters; needs exactly three
+2022/04/15 20:14:47 start check timeout...
+2022/04/15 20:14:47 check timeout done!
+2022/04/15 20:14:52 start check timeout...
+2022/04/15 20:14:52 check timeout done!
+2022/04/15 20:14:57 start check timeout...
+2022/04/15 20:14:57 check timeout done!
+2022/04/15 20:15:02 start check timeout...
+2022/04/15 20:15:02 check timeout done!
+2022/04/15 20:15:07 start check timeout...
+2022/04/15 20:15:07 check timeout done!
+2022/04/15 20:15:12 start check timeout...
+2022/04/15 20:15:12 check timeout done!
+2022/04/15 20:15:17 start check timeout...
+2022/04/15 20:15:17 check timeout done!
+2022/04/15 20:15:22 receive GetTask call
+2022/04/15 20:15:22 Task 0 distributed to Worker 1359
+2022/04/15 20:15:22 start check timeout...
+2022/04/15 20:15:22 check timeout done!
+2022/04/15 20:15:22 task 0 done!
+2022/04/15 20:15:22 receive GetTask call
+2022/04/15 20:15:22 Task 1 distributed to Worker 1359
+2022/04/15 20:15:24 task 1 done!
+2022/04/15 20:15:24 receive GetTask call
+2022/04/15 20:15:24 Task 2 distributed to Worker 1359
+2022/04/15 20:15:25 task 2 done!
+2022/04/15 20:15:25 receive GetTask call
+2022/04/15 20:15:25 Task 3 distributed to Worker 1359
+2022/04/15 20:15:27 start check timeout...
+2022/04/15 20:15:27 check timeout done!
+2022/04/15 20:15:27 task 3 done!
+2022/04/15 20:15:27 receive GetTask call
+2022/04/15 20:15:27 Task 4 distributed to Worker 1359
+2022/04/15 20:15:30 task 4 done!
+2022/04/15 20:15:30 receive GetTask call
+2022/04/15 20:15:30 Task 5 distributed to Worker 1359
+2022/04/15 20:15:30 task 5 done!
+2022/04/15 20:15:30 receive GetTask call
+2022/04/15 20:15:30 Task 6 distributed to Worker 1359
+2022/04/15 20:15:32 start check timeout...
+2022/04/15 20:15:32 check timeout done!
+2022/04/15 20:15:32 task 6 done!
+2022/04/15 20:15:32 receive GetTask call
+2022/04/15 20:15:32 Task 7 distributed to Worker 1359
+2022/04/15 20:15:34 task 7 done!
+2022/04/15 20:15:34 have 10 reduce tasks
+2022/04/15 20:15:34 receive GetTask call
+2022/04/15 20:15:34 Task 0 distributed to Worker 1359
+2022/04/15 20:15:35 task 0 done!
+2022/04/15 20:15:35 receive GetTask call
+2022/04/15 20:15:35 Task 1 distributed to Worker 1359
+2022/04/15 20:15:35 task 1 done!
+2022/04/15 20:15:35 receive GetTask call
+2022/04/15 20:15:35 Task 2 distributed to Worker 1359
+2022/04/15 20:15:36 task 2 done!
+2022/04/15 20:15:36 receive GetTask call
+2022/04/15 20:15:36 Task 3 distributed to Worker 1359
+2022/04/15 20:15:37 start check timeout...
+2022/04/15 20:15:37 check timeout done!
+2022/04/15 20:15:37 task 3 done!
+2022/04/15 20:15:37 receive GetTask call
+2022/04/15 20:15:37 Task 4 distributed to Worker 1359
+2022/04/15 20:15:38 task 4 done!
+2022/04/15 20:15:38 receive GetTask call
+2022/04/15 20:15:38 Task 5 distributed to Worker 1359
+2022/04/15 20:15:39 task 5 done!
+2022/04/15 20:15:39 receive GetTask call
+2022/04/15 20:15:39 Task 6 distributed to Worker 1359
+2022/04/15 20:15:40 task 6 done!
+2022/04/15 20:15:40 receive GetTask call
+2022/04/15 20:15:40 Task 7 distributed to Worker 1359
+2022/04/15 20:15:41 task 7 done!
+2022/04/15 20:15:41 receive GetTask call
+2022/04/15 20:15:41 Task 8 distributed to Worker 1359
+2022/04/15 20:15:42 task 8 done!
+2022/04/15 20:15:42 receive GetTask call
+2022/04/15 20:15:42 Task 9 distributed to Worker 1359
+2022/04/15 20:15:42 start check timeout...
+2022/04/15 20:15:42 check timeout done!
+2022/04/15 20:15:43 task 9 done!
+2022/04/15 20:15:43 receive GetTask call
+2022/04/15 20:15:43 There is no tasks to distribute
